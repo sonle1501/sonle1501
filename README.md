@@ -1,13 +1,9 @@
 # About me
-
 Young developer who enjoys building things and solving problems.
 
 > Tech lover · Zen approach · Staying curious
 >
-
-### 🤖 About the LLM era:
-> 
-> Comfortable leveraging AI to improve both myself and my work while maintaining a balanced approach.
+---
 
 ### ⚒️ Stack
 
@@ -19,5 +15,8 @@ Young developer who enjoys building things and solving problems.
 - 📊 **github-loc** — GitHub repository LOC counter tool
 
 ---
+### 🤖 About the LLM era:
+> 
+> Comfortable leveraging AI to improve both myself and my work while maintaining a balanced approach.
 
 
