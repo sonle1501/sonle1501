@@ -1,16 +1,27 @@
-## Hi there 👋
+# About me
 
-<!--
-**sonle1501/sonle1501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Young developer who enjoys building things and solving problems.
 
-Here are some ideas to get you started:
+> Tech lover · Zen approach · Staying curious
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 About the LLM era:
+> 
+> Comfortable leveraging AI to improve both myself and my work while maintaining a balanced approach.
+
+### ⚒️ Stack
+
+`Java` `JavaScript` `Python` `Spring`
+
+### ✨ Featured Projects
+
+- 🎬 **film-db** — Movie database app
+- 📊 **github-loc** — GitHub repository LOC counter tool
+
+---
+
+```txt
+Build.
+Learn.
+Stay curious.
+```
