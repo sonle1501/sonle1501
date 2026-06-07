@@ -20,8 +20,4 @@ Young developer who enjoys building things and solving problems.
 
 ---
 
-```txt
-Build.
-Learn.
-Stay curious.
-```
+
